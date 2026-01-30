@@ -1,5 +1,5 @@
 type Props = {
-  error?: string
+  error?: any
 }
 
 export function ErrorMessage({ error }: Props) {
